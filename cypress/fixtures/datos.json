@@ -1,0 +1,18 @@
+{
+    "usuario":{
+        "usuario":"pushingit",
+        "contraseña":"123456!"
+    },
+ 
+   "producto": {
+        "nombre1":"Pink Sweater",
+        "precio1":18, 
+        "nombre2":"Black Socks",
+        "precio2":10
+        
+
+    }
+    
+
+   
+}
